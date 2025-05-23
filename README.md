@@ -11,13 +11,13 @@ Hi! I'm an Electronics & Communication Engineering student passionate about embe
 
 ## 🔹 Ultrasonic Obstacle Detection
 - Used HC-SR04 sensor to detect distance
-- Basic object detection with the help of hand
+- Basic object detection with the help of servo
 - File: `ultrasonic_sensor.ino`
 
 ## 🔹 Arduino Drone (Basic)
 - Assembled a basic quadcopter using Arduino Uno
 - Integrated ESCs, motors, remote input
-- 📹 **Demo Video:** 
+- 📹
 
 ---
 
