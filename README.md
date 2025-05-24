@@ -17,7 +17,7 @@ Hi! I'm an Electronics & Communication Engineering student passionate about embe
 ## 🔹 Arduino Drone (Basic)
 - Assembled a basic quadcopter using Arduino Uno
 - Integrated ESCs, motors, remote input
-- 📹 **Demo Video:** 
+- 📹 **Demo Video:** https://drive.google.com/file/d/10cq8qE51VCOW139c7ZSagyrsLRKMVAzL/view?usp=sharing
 
 ---
 
